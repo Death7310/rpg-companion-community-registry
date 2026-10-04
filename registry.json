@@ -3323,5 +3323,21 @@
     "github_repo": "guyyoudontknowe-byte/Galdr-Class",
     "repo_url": "https://guyyoudontknowe-byte.github.io/Galdr-Class/",
     "has_system": false
+  },
+  {
+    "name": "Grim-Hollows-Subclasses",
+    "description": "Subclasses from the grim hollows player guide",
+    "tags": [
+      "5e2024",
+      "subclass"
+    ],
+    "origin": "published",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "ElHeckerman/Grim-Hollows-Subclasses",
+    "repo_url": "https://ElHeckerman.github.io/Grim-Hollows-Subclasses/",
+    "has_system": false
   }
 ]
