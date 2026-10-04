@@ -3305,5 +3305,25 @@
     "github_repo": "Gandalfist/Glyphomancy-subclass",
     "repo_url": "https://Gandalfist.github.io/Glyphomancy-subclass/",
     "has_system": false
+  },
+  {
+    "name": "DnD-Half-Elf-Aasimar",
+    "description": "just a prototype homebrew race ",
+    "tags": [
+      "5e2024",
+      "5e",
+      "fantasy",
+      "homebrew",
+      "race",
+      "drow/aasimar"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "Death7310/DnD-Half-Elf-Aasimar",
+    "repo_url": "https://Death7310.github.io/DnD-Half-Elf-Aasimar/",
+    "has_system": false
   }
 ]
